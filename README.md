@@ -2,4 +2,5 @@
 ## 100天刻意練習，掌握NLP與機器學習關鍵技術
 
 Day 1: string operation
+
 Day 2: string operation
