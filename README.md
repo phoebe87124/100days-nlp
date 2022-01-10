@@ -5,8 +5,10 @@ Day 1: string operation
 
 Day 2: string operation
 
-Day3: Regex
+Day 3: Regex
 
-Day4: Regex
+Day 4: Regex
 
-Day5: 中文斷詞(Viterbi Algorithm)
+Day 5: 中文斷詞(Viterbi Algorithm)
+
+Day 6: 使用結巴進行中文斷詞
